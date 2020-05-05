@@ -1,6 +1,6 @@
-#Lista de cursos sobre programação, grátis no youtube
+# Lista de cursos sobre programação, grátis no youtube
 
-##|====================== FRONT-END ======================|
+## |====================== FRONT-END ======================|
 
 **JavaScript**: https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
 
@@ -20,7 +20,7 @@
 
 **Flutter**: https://www.youtube.com/watch?v=dA8Bbzw0_lo&list=PLHlHvK2lnJndhgbqLl5DNEvKQg5F4ZenQ
 
-##|====================== BACK-END ======================|
+## |====================== BACK-END ======================|
 
 **Node.js**: https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B
 
@@ -42,13 +42,13 @@
 
 **Java**: https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r
 
-##|====================== Banco de Dados ======================|
+## |====================== Banco de Dados ======================|
 
 **MySQL**: https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
 
 **Firebase**: https://www.youtube.com/watch?v=uP_v6RhnP5U&list=PLHlHvK2lnJnccBL9grcoRxv8CsLa9Q_4q
 
-##|====================== Outros ======================|
+## |====================== Outros ======================|
 
 **Lógica de programação**: https://www.youtube.com/watch?v=4ZAOWlZRbZk&list=PLwXQLZ3FdTVG_mqZcOXhfFf3Po6whFv8o
 
